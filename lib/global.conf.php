@@ -6,9 +6,9 @@
 
 // Define Database Connection
 define('DB_HOST','localhost');
-define('DB_USER','qbrs');
-define('DB_PWD','wxd8rAaHp86MHKVG');
-define('DB_DBNAME','qbrs');
+define('DB_USER','databaseuser');
+define('DB_PWD','databasepass');
+define('DB_DBNAME','databasename');
 define('DB_CHARSET','utf8');
 
 // Using MySQL
